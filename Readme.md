@@ -1,1 +1,1 @@
-## Property Testing in Scala 
+## Property-based Testing in Scala 
