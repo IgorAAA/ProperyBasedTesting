@@ -1,0 +1,10 @@
+*.orig
+target/
+*.iml
+.idea/
+.git/
+.dat
+lib/
+atlassian-ide-plugin.xml
+.DS_STORE
+slimdown-data.json
