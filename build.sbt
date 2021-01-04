@@ -1,6 +1,6 @@
 import Dependencies._
 
-ThisBuild / name := "Property Testing Example"
+name := "Property Testing Example"
 
 ThisBuild / scalaVersion := "2.13.3"
 

@@ -1,6 +1,7 @@
 package examples
 
-import examples.domain.{Account, AccountCat, AccountId, Amount, UserId}
+import examples.domain.{Account, AccountCat, Amount}
+import examples.domain.Ids._
 import org.scalacheck.{Arbitrary, Gen}
 import Arbitrary.arbitrary
 import org.scalatest.matchers.should._
