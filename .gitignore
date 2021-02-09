@@ -4,6 +4,7 @@ target/
 .idea/
 .git/
 .dat
+.bsp/
 lib/
 atlassian-ide-plugin.xml
 .DS_STORE
